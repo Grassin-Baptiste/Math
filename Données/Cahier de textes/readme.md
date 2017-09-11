@@ -8,7 +8,7 @@ Plan de la séance du mardi 12 septembre 2017:
 
 ---
 
-Plan de la séance du lundi 11 7 septembre 2017:
+Plan de la séance du lundi 11 septembre 2017:
 
 1. [Fiche d'exercices 1](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%201/exercice-1.pdf) Suite.
 

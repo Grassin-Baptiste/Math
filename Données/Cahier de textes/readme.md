@@ -4,6 +4,8 @@ Plan de la séance du mardi 12 septembre 2017:
 
 1. Un [problème ouvert page 23](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/PBp23.png) Suite.
 
+1. Démonstration du théorème 11 sur la factorisation d'un trinôme du second degré.
+
 1. [Fiche d'exercices 1](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%201/exercice-1.pdf).
 
 ---

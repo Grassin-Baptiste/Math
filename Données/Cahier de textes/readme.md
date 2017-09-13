@@ -6,13 +6,13 @@ Plan de la séance du mardi 12 septembre 2017:
 
 1. Démonstration du théorème 11 sur la factorisation d'un trinôme du second degré.
 
-1. [Fiche d'exercices 1](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%201/exercice-1.pdf).
+1. [Exercice 2](https://raw.githubusercontent.com/1SSI/Devoirs/master/Donn%C3%A9es/Date/170912/excor2.png) de la [Fiche d'exercices 1](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%201/exercice-1.pdf).
 
 ---
 
 Lundi 11 septembre 2017:
 
-[Exercice 1](https://raw.githubusercontent.com/1SSI/Devoirs/master/Donn%C3%A9es/170911/cor1.png) de la [fiche d'exercices 1](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%201/exercice-1.pdf).
+[Exercice 1](https://raw.githubusercontent.com/1SSI/Devoirs/master/Donn%C3%A9es/Date/170911/excor1.png) de la [fiche d'exercices 1](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%201/exercice-1.pdf).
 
 
 ---

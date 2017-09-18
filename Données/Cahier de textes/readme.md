@@ -2,13 +2,17 @@
 
 ---
 
+-->
+
 Plan de la séance du lundi 18 septembre 2017:
 
-[Fiche d'exercices 2](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%202/exercice-2.pdf)
+1. Démontrer que la fonction inverse est décroissante sur l'intervalle formé par les rééls strictement négatifs.
 
---- -->
+1. [Fiche d'exercices 2](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%202/exercice-2.pdf)
 
-Plan de la séance du jeudi 14 septembre 2017:
+---
+
+Jeudi 14 septembre 2017:
 
 1. Démontrer que la fonction carré est strictement décroissante sur l'intervalle des rééls négatifs.
 

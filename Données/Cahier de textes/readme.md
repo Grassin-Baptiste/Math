@@ -2,7 +2,7 @@ Plan de la séance du jeudi 28 septembre 2017:
 
 1. Trouver l'équation d'un cercle dans un repère orthonormé.
 
-2. Reconnaitre l'équaiton d'un cercle dans un repère orthonormé.
+2. Reconnaître l'équaiton d'un cercle dans un repère orthonormé.
 
 3. Fiche d'[exercices 3](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%203/exercice-3.pdf).
 

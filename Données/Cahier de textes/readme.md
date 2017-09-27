@@ -1,14 +1,62 @@
-<!-- Plan de la séance du mardi 19 septembre 2017:
+Plan de la séance du jeudi 28 septembre 2017:
+
+1. Trouver l'équation d'un cercle dans un repère orthonormé.
+
+2. Reconnaitre l'équaiton d'un cercle dans un repère orthonormé.
+
+3. Fiche d'[exercices 3](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%203/exercice-3.pdf).
 
 ---
 
--->
+Mardi 26 septembre 2017:
 
-Plan de la séance du lundi 18 septembre 2017:
+1. Contrôle de deux heures sur le second degré.
+
+2. Rappels:
+ - Formules pour le calcul des coordonnées d'un milieu dans un repère quelconque.
+
+ - Formules de calcul de longueur dans un repère orthonormée.
+
+ - Droites remarquables dans un triangles
+
+ - Démonstration de la formule pour les coordonnées d'un milieu en utilisant l'équivalence fondamentale pour les coordonnées d'un point dans un repère: proposition 7 du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf) de cours sur les vecteurs.
+
+2. Fiche d'[exercices 3](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%203/exercice-3.pdf)
+Exercice 1:
+
+  - Calcul des coordonnées d'un milieu.
+  - Calcul de longueurs.
+  - Caractérisation d'un triangle rectangle comme un triangle possédant une médiane de longueur moitié du côté opposé.
+
+---
+
+Lundi 25 septembre 2017:
+
+Séance de révision sur le second degré.
+
+---
+
+Jeudi 21 septembre 2017:
+
+[Fiche d'exercices 2](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%202/exercice-2.pdf): Exercice 4, résolution d'inéquations.
+
+---
+
+Mardi 19 septembre 2017:
+
+1. [Fiche d'exercices 2](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%202/exercice-2.pdf): Exercice 2: Positions relatives de paraboles.
+
+2. Exemple d'inéquation: se ramener à une étude de signe.
+
+3. Correction des [exercices 58 et 59 page 39](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Problèmes du second degré.
+
+---
+
+Lundi 18 septembre 2017:
 
 1. Démontrer que la fonction inverse est décroissante sur l'intervalle formé par les rééls strictement négatifs.
 
-1. [Fiche d'exercices 2](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%202/exercice-2.pdf)
+1. [Fiche d'exercices 2](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%202/exercice-2.pdf): Exercice 1: intersection d'une droite avec une parabole et positions relatives.
 
 ---
 
@@ -18,7 +66,7 @@ Jeudi 14 septembre 2017:
 
 1. Démontrer que la fonction racine carré est strictement croissante.
 
-1. [Fiche d'exercices 1](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%201/exercice-1.pdf).
+1. [Fiche d'exercices 1](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20d'exercices/Fiche%201/exercice-1.pdf): Formes canoniques, résolution d'équations du second degré.
 
 ---
 

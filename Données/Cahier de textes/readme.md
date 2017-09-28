@@ -1,5 +1,7 @@
 Plan de la séance du jeudi 28 septembre 2017:
 
+[Activité sur les équations](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/Equations/Eq%26Ver.pdf).
+
 1. Trouver l'équation d'un cercle dans un repère orthonormé.
 
 2. Reconnaître l'équaiton d'un cercle dans un repère orthonormé.

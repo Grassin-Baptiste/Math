@@ -1,4 +1,10 @@
-Plan de la séance du jeudi 28 septembre 2017:
+Plan de la séance du lundi 2 octobre 2012:
+
+Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png).
+
+---
+
+Jeudi 28 septembre 2017:
 
 [Activité sur les équations](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/Equations/Eq%26Ver.pdf).
 

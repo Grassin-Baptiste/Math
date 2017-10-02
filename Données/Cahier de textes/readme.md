@@ -1,6 +1,16 @@
-Plan de la séance du lundi 2 octobre 2012:
+<!-- Plan de la séance du lundi 16 octobre 2012:
 
-Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png).
+Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png). -->
+
+Plan de la séance du lundi 16 octobre 2012:
+
+Révisions pour le contrôle sur les problèmes:
+
+- Trouver deux nombres dont on connaît la somme et le produit.
+- Équations de cercle.
+- Trinôme à paramètre.
+
+
 
 ---
 

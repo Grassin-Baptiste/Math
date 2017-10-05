@@ -2,13 +2,34 @@
 
 Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png). -->
 
-Plan de la séance du lundi 16 octobre 2012:
+Plan de la séance du jeudi 5 octobre 2017:
 
-Révisions pour le contrôle sur les problèmes:
+1. Démontrer la caractérisation du rectangle comme parallèlogramme avec des diagonales de même longueur.
 
-- Trouver deux nombres dont on connaît la somme et le produit.
+2. Lieu géométrique des points voyant les extrémités d'un segment avec un angle de 90 degrés.
+
+3. Fiche d'[exercices 3](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%203/exercice-3.pdf)
+
+---
+
+Mardi 3 octobre 2017:
+
 - Équations de cercle.
-- Trinôme à paramètre.
+- Corrections des problèmes
+
+1. Exercice [63 page 39](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/63p39.png): Surface d'un écran.
+
+2. Exercice [82 page 41](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/82p41.png): Un problème d'optimisation de surface.
+
+---
+
+Lundi 2 octobre 2017:
+
+Trouver deux nombres dont on connaît la somme et le produit.
+
+Démonstration et applications du théorème suivant:
+
+2 nombres dont la somme est S et le produit est P sont les racines du trinôme x^2-Sx+P.
 
 
 

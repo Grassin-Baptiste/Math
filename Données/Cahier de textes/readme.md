@@ -1,14 +1,22 @@
 <!-- Plan de la séance du lundi 16 octobre 2012:
 
-Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png). -->
-
-Plan de la séance du jeudi 5 octobre 2017:
-
-1. Démontrer la caractérisation du rectangle comme parallèlogramme avec des diagonales de même longueur.
+Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png).
 
 2. Lieu géométrique des points voyant les extrémités d'un segment avec un angle de 90 degrés (Utilisation du produit scalaire).
 
-3. Fiche d'[exercices 3](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%203/exercice-3.pdf).
+-->
+
+Plan de la séance du mardi 10 octobre 2017:
+
+1. Contrôle sur le second degré avec des problèmes.
+
+2. Fiche d'[exercices 3](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%203/exercice-3.pdf).
+
+---
+
+Jeudi 5 octobre 2017:
+
+Démonstration de la caractérisation du rectangle comme parallèlogramme avec des diagonales de même longueur.
 
 ---
 

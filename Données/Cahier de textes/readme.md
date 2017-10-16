@@ -1,16 +1,32 @@
-<!-- Plan de la séance du lundi 16 octobre 2012:
-
-Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png).
+<!--
 
 2. Lieu géométrique des points voyant les extrémités d'un segment avec un angle de 90 degrés (Utilisation du produit scalaire).
 
 -->
 
-Plan de la séance du mardi 10 octobre 2017:
+Plan de la séance du lundi 16 octobre 2012:
+
+Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png).
+
+---
+
+Jeudi 12 octobre 2017:
+
+Fiche d'[exercices 3](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%203/exercice-3.pdf).
+
+---
+
+Mardi 10 octobre 2017:
 
 1. Contrôle sur le second degré avec des problèmes.
 
 2. Fiche d'[exercices 3](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%203/exercice-3.pdf).
+
+---
+
+Lundi 9 octobre 2017:
+
+Séance de révision pour le contrôle sur les problèmes du second degré.
 
 ---
 

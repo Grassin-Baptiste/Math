@@ -4,7 +4,22 @@
 
 -->
 
-Plan de la séance du lundi 16 octobre 2012:
+Plan de la séance du jeudi 19 octobre 2017:
+
+Fiche d'[exercices 4](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%204/exercice-4.pdf): Vecteurs directeurs et équations cartésiennes de droites.
+
+---
+
+Mardi 17 octobre 2017:
+
+1. Carte mentale du cours sur les vecteurs.
+
+1. Fiche d'[exercices 4](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/Fiches%20d'exercices/Fiche%204/exercice-4.pdf): Vecteurs directeurs et équations cartésiennes de droites.
+
+1. Correction Exercices [6 page 172](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/5-9p172.png): Utilisation de la colinéarité sans repère.e
+---
+
+Lundi 16 octobre 2012:
 
 Activité geogebra: [Colinéarité et décomposition de vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Act1%262p167.png).
 
